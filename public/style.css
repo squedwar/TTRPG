@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'RutheniaRadaFancy';
+    src: url('fonts/RutheniaRadaFancy-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    text-align: center;
+    background-color: #a8d4c9;
+}
+
+h1{
+    font-family: 'RutheniaRadaFancy';
+    font-size: 500%;
+}
+
+.main{
+    margin-top: 10%;
+}
+
+.error{
+    color: red;
+}
